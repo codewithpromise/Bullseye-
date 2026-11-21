@@ -10,8 +10,8 @@
 // NEVER paste the "service_role" key anywhere in this site.
 // =====================================================================
 window.BULLSEYE_CONFIG = {
-  SUPABASE_URL: "PASTE_PROJECT_URL_HERE",
-  SUPABASE_ANON_KEY: "PASTE_ANON_KEY_HERE",
+  SUPABASE_URL: "https://ikjdheqkrrhojqgmvmpn.supabase.co/rest/v1/",
+  SUPABASE_ANON_KEY: "sb_publishable_S4O9plHFHAqO8WzdjArOhA_vo1AQZUL",
 
   // Product categories shown on the site and in the admin page.
   CATEGORIES: ["Men", "Women", "Unisex", "Accessories"]
